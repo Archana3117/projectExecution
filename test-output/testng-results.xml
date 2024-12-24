@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-23T12:17:03 IST" name="AutomationSuite" finished-at="2024-12-23T12:18:07 IST" duration-ms="63692">
+    <groups>
+    </groups>
+    <test started-at="2024-12-23T12:17:03 IST" name="AutomationTest" finished-at="2024-12-23T12:18:07 IST" duration-ms="63692">
+      <class name="testNGpack.TNG_002">
+        <test-method is-config="true" signature="startProcess(java.lang.String)[pri:0, instance:testNGpack.TNG_002@4c60d6e9]" started-at="2024-12-23T12:17:03 IST" name="startProcess" finished-at="2024-12-23T12:17:20 IST" duration-ms="16365" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startProcess -->
+        <test-method signature="amazonTest()[pri:0, instance:testNGpack.TNG_002@4c60d6e9]" started-at="2024-12-23T12:17:20 IST" name="amazonTest" finished-at="2024-12-23T12:17:34 IST" duration-ms="14535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonTest -->
+        <test-method is-config="true" signature="endProcess()[pri:0, instance:testNGpack.TNG_002@4c60d6e9]" started-at="2024-12-23T12:17:34 IST" name="endProcess" finished-at="2024-12-23T12:17:40 IST" duration-ms="5404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endProcess -->
+        <test-method is-config="true" signature="startProcess(java.lang.String)[pri:0, instance:testNGpack.TNG_002@4c60d6e9]" started-at="2024-12-23T12:17:40 IST" name="startProcess" finished-at="2024-12-23T12:17:46 IST" duration-ms="6332" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startProcess -->
+        <test-method signature="amazonTest1()[pri:0, instance:testNGpack.TNG_002@4c60d6e9]" started-at="2024-12-23T12:17:46 IST" name="amazonTest1" finished-at="2024-12-23T12:17:46 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonTest1 -->
+        <test-method is-config="true" signature="endProcess()[pri:0, instance:testNGpack.TNG_002@4c60d6e9]" started-at="2024-12-23T12:17:46 IST" name="endProcess" finished-at="2024-12-23T12:17:47 IST" duration-ms="1214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endProcess -->
+        <test-method is-config="true" signature="startProcess(java.lang.String)[pri:0, instance:testNGpack.TNG_002@4c60d6e9]" started-at="2024-12-23T12:17:47 IST" name="startProcess" finished-at="2024-12-23T12:18:04 IST" duration-ms="16774" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startProcess -->
+        <test-method signature="amazonTest2()[pri:0, instance:testNGpack.TNG_002@4c60d6e9]" started-at="2024-12-23T12:18:04 IST" name="amazonTest2" finished-at="2024-12-23T12:18:04 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonTest2 -->
+        <test-method is-config="true" signature="endProcess()[pri:0, instance:testNGpack.TNG_002@4c60d6e9]" started-at="2024-12-23T12:18:04 IST" name="endProcess" finished-at="2024-12-23T12:18:07 IST" duration-ms="2801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endProcess -->
+      </class> <!-- testNGpack.TNG_002 -->
+    </test> <!-- AutomationTest -->
+  </suite> <!-- AutomationSuite -->
+</testng-results>
